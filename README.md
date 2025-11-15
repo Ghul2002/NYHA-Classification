@@ -32,5 +32,3 @@ Predicting NYHA classes on the original (unchanged) test set.
 
 6. Evaluating model quality
 Calculating the accuracy, confusion matrix, and classification report (precision, recall, f1-score for each class).
-
-Comparing the results before and after oversampling—checking the improvement in prediction for difficult classes.
