@@ -1,5 +1,5 @@
 # NYHA-Classification
-## Classification of stages of heart failure. University Exercise
+## Classification of stages of heart failure. University Project
 
 ## 1. Data Preparation
 Loading data from a CSV file.
