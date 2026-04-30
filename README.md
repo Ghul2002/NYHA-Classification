@@ -44,5 +44,5 @@ Calculating the accuracy, confusion matrix, and classification report (precision
 
 ## How to run
 
-### 1. Clone the repository
-### 2. Install dependencies: `pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn`
+1. Clone the repository
+2. Install dependencies: `pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn`
